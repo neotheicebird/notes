@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "c634be397428b7e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5169e46ff4ad7b46",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "FrontendConcepts.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd2d770c0423d4d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d16767e84dcf3752",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56af4f1d8bb796c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f77c337580f180ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "securit",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "658dbe1904b33034",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad13863251a06484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c4da1e67d4d3eda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FrontendConcepts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5169e46ff4ad7b46",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "graphql_edx/Lessons from 4 years of GraphQL.md",
+    "CareerLaddering.md",
+    "GroundRules.md",
+    "JobsAndOpportunities.md",
+    "WebOverStoreApps.md",
+    "graphql_edx/Core Concepts.md",
+    "graphql_edx/A query language for APIs.md",
+    "graphql_edx/JobsAndOpportunities.md",
+    "GraphQL Clients like Apollo.md"
+  ]
+}
