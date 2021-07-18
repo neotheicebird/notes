@@ -5,3 +5,5 @@ https://36-concepts-graphql.netlify.app/
 https://www.graphql.com/articles/4-years-of-graphql-lee-byron
 
 GraphQL Spec - https://spec.graphql.org/
+
+Case against graphql - https://www.youtube.com/watch?v=djKPtyXhaNE

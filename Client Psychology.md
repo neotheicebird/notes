@@ -1,0 +1,1 @@
+Clients crave for good talent and talent is rare. So do not charge low, just because you can afford to charge low. Charge what you think your time is worth, give excess to charity or save for mini-retirements or your dream projects.

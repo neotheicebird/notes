@@ -17,7 +17,7 @@ In REST world we would do something like `GET /users/{id}` and we would expect a
 
 In GraphQL the structure of data returned is not fixed, instead it is flexible and the client decides what data is actually needed.
 
-2. Query -  Unlike REST, in graphql the client has to be expressing about its data needs. It has to tell what it needs and in what structure it needs it. For example,
+2. Query -  Unlike REST, in graphql the client has to be expressing about its data needs. It has to tell what it needs and in what structure it needs it in. For example,
 
 ```
 {
@@ -100,7 +100,7 @@ subscription {
 
 Start with the `subscription` keyword and think of `newPerson` as a SNS topic. When ever a new Person is created, a stream of data is sent to the client.
 
-hottake: Pusher is good because they provide frontend libraries to incorporate subscriptions. But in graphql world, any graphql framework implemented would already have subscription baked into it and with just using SNS, we could achieve great results without some service like pusher.
+hottake: Pusher is good because they provide frontend libraries to incorporate subscriptions. But in graphql world, any graphql framework implemented would already have subscription baked into it and with just using SNS, we could achieve great results without some service like pusher. (Edit 09-05-2021: This is not true. While we can implement subscriptions with just Lambda, it is not optimal. We need a continuously running process. AWS AppSync seems like the way to go)
 
 4. graphql schema
 

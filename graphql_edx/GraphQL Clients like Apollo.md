@@ -1,6 +1,6 @@
 We can ofcourse build HTTP requests, parse JSON response and handle GraphQL querying by hand, but it is often not required or is cumbursome
 
-Intead we can use existing infrastructure like Apollo, which has features like 
+Instead we can use existing infrastructure like Apollo, which has features like 
 1. Directly send queries and mutations and not worrying about constructing HTTP requests or parsing response. Its a time saver
 2. view-layer integration
 3. caching
@@ -14,7 +14,7 @@ GraphQL allows us to fetch and update data in a declarative manner, instead of t
 
 ## View Layer integrations and UI Updates
 
-After the server responds, the data somehow needs to end up on the UI. Say for example in view, we can force update UI or just set the UI variables and let Vue update as a part of its cycle.
+After the server responds, the data somehow needs to end up on the UI. Say for example in vue, we can force update UI or just set the UI variables and let Vue update as a part of its cycle.
 
 Here "layer" refers to the Functional Reactive Programming layer, formed by frameworks like Vuejs, react, or angular.
 

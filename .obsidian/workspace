@@ -4,12 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "5169e46ff4ad7b46",
+        "id": "7d587995baea4274",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FrontendConcepts.md",
+            "file": "AWS Amplify.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "40ab877e7953524d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CovidNotes.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "55a912e2dc1d56dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "App Ideas and Related reseach.md",
             "mode": "source"
           }
         }
@@ -39,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "securit",
+                "query": "dynamic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -47,12 +69,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "ca4c135562ea4c7a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 368,
     "collapsed": true
   },
   "right": {
@@ -69,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontendConcepts.md",
+                "file": "App Ideas and Related reseach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,25 +109,34 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "50632ac566e123ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "App Ideas and Related reseach.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "5169e46ff4ad7b46",
+  "active": "55a912e2dc1d56dd",
   "lastOpenFiles": [
-    "Untitled.md",
-    "graphql_edx/Lessons from 4 years of GraphQL.md",
-    "CareerLaddering.md",
-    "GroundRules.md",
-    "JobsAndOpportunities.md",
-    "WebOverStoreApps.md",
-    "graphql_edx/Core Concepts.md",
-    "graphql_edx/A query language for APIs.md",
-    "graphql_edx/JobsAndOpportunities.md",
-    "GraphQL Clients like Apollo.md"
+    "App Ideas and Related reseach.md",
+    "CovidNotes.md",
+    "AWS Amplify.md",
+    "data_structures/Data Structures Easy to Advanced Course.md",
+    "2021-07-19.md",
+    "Brain Fog, Myalgia, Depression, And Fatigue In Long-Haulers.md",
+    "data_structures/Untitled.md",
+    "Dynamic Programming.md",
+    "assets/dp/fib_recursive.jpg",
+    "assets/dp/fib_memoize.jpg"
   ]
 }
