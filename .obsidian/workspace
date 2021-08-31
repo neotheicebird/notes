@@ -4,34 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7d587995baea4274",
+        "id": "6e2f28b56cb2d249",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS Amplify.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "40ab877e7953524d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CovidNotes.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "55a912e2dc1d56dd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "App Ideas and Related reseach.md",
+            "file": "Day Planners/Day Planner-20210831.md",
             "mode": "source"
           }
         }
@@ -61,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dynamic",
+                "query": "mongo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368,
-    "collapsed": true
+    "width": 368
   },
   "right": {
     "id": "658dbe1904b33034",
@@ -92,6 +69,7 @@
       {
         "id": "ad13863251a06484",
         "type": "tabs",
+        "dimension": 42.454728370221325,
         "children": [
           {
             "id": "5c4da1e67d4d3eda",
@@ -99,14 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "App Ideas and Related reseach.md",
+                "file": "Day Planners/Day Planner-20210831.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -116,27 +94,52 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "App Ideas and Related reseach.md"
+                "file": "Day Planners/Day Planner-20210831.md"
               }
+            }
+          },
+          {
+            "id": "5c8d124aec413698",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "37e9f67fa452e272",
+        "type": "tabs",
+        "dimension": 57.545271629778675,
+        "children": [
+          {
+            "id": "3dec7b426ab0d3bd",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "55a912e2dc1d56dd",
+  "active": "6e2f28b56cb2d249",
   "lastOpenFiles": [
-    "App Ideas and Related reseach.md",
-    "CovidNotes.md",
-    "AWS Amplify.md",
-    "data_structures/Data Structures Easy to Advanced Course.md",
-    "2021-07-19.md",
-    "Brain Fog, Myalgia, Depression, And Fatigue In Long-Haulers.md",
-    "data_structures/Untitled.md",
-    "Dynamic Programming.md",
-    "assets/dp/fib_recursive.jpg",
-    "assets/dp/fib_memoize.jpg"
+    "Day Planners/Day Planner-20210831.md",
+    "graphql_edx/GraphQL Server Basics.md",
+    "graphql_edx/GraphQL Concepts Visualized.md",
+    "graphql_edx/GraphQL Clients like Apollo.md",
+    "Day Planners/Day Planner-20210819.md",
+    "event_sourcing/mongodb/aggregation.md",
+    "async programming/Async for beginners.md",
+    "async programming/Untitled.md",
+    "Untitled.md",
+    "event_sourcing/mongodb/Mongodb Python Notes.md"
   ]
 }
